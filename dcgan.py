@@ -289,5 +289,12 @@ if __name__ == '__main__':
             print('Saving...')
             modG.save_params('%s_G_%s-%04d.params'%(dataset, stamp, epoch))
             modD.save_params('%s_D_%s-%04d.params'%(dataset, stamp, epoch))
+            
+            
+            
+            
+            
+            
+            print('hello')
 
 
